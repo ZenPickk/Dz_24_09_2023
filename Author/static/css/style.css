@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(58, 58, 58);
+}
+h1{
+    color:rgb(39, 39, 39);background-color:rgb(124, 124, 124); font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    font-size: 30px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3{
+    font-size: 25px;
+}
+a{
+    color: rgb(0, 0, 0); text-decoration: none;
+}
+p{
+    font-size: 25px; font-weight: bold;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button{
+    cursor: pointer; border-width: 4px;border-radius: 15px ;color: rgb(227, 226, 233) ;font-size: 20px ;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+#book_btn{
+    background-image:linear-gradient(rgb(53, 164, 118),rgb(47, 216, 84)); border-color: rgba(48, 146, 115, 0.989) ;
+}
+#author_btn{
+    background-image:linear-gradient( rgb(145, 70, 226),rgb(226, 70, 195) ); border-color: rgba(125, 48, 146, 0.989) ;
+}
+#main_btn{
+    background-image:linear-gradient(rgb(245, 158, 19), rgb(236, 240, 15)) ; border-color: rgba(146, 141, 48, 0.989) ;
+}
+.sourse_btn{
+    background-color: rgb(132, 132, 132);
+}
+.leftimg {
+    float:left; 
+    margin: 7px 7px 7px 0; 
+    }
